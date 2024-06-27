@@ -4,14 +4,14 @@ from PyBypass.main import BypasserNotFoundError, UnableToBypassError, UrlConnect
 import PyBypass as bypasser
 
 st.set_page_config(
-    page_title="URL Bypasser",
+    page_title="KTG URL Bypasser",
     page_icon="🧊",
     layout="centered",
     initial_sidebar_state="auto",
     menu_items={
-        "Get Help": "https://telegram.me/ask_admin001",
-        "Report a bug": "https://telegram.me/ask_admin001",
-        "About": "This is URL Bypasser for ADLINKFLY based website. Made by [Kevin](https://github.com/kevinnadar22)",
+        "Get Help": "https://telegram.me/Krishna00P",
+        "Report a bug": "https://telegram.me/Krishna00P",
+        "About": "This is URL Bypasser for ADLINKFLY based website. Made by [Krishna](https://github.com/KrishnaBotz)",
     },
 )
 
